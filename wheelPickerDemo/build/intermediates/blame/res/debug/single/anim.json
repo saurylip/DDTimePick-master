@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\src\\main\\res\\anim\\push_bottom_in.xml"
+    }
+]

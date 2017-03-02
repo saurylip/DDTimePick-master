@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/a123/Desktop/MyTimePick-master/E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_out.xml",
+        "source": "/Users/a123/Desktop/MyTimePick-master/E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/a123/Desktop/MyTimePick-master/wheelPickerDemo/build/intermediates/res/merged/androidTest/debug/anim/push_bottom_in.xml",
+        "source": "/Users/a123/Desktop/MyTimePick-master/wheelPickerDemo/build/intermediates/bundles/debug/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/a123/Desktop/MyTimePick-master/E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\push_bottom_in.xml",
+        "source": "/Users/a123/Desktop/MyTimePick-master/E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\bundles\\debug\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/a123/Desktop/MyTimePick-master/wheelPickerDemo/build/intermediates/res/merged/androidTest/debug/anim/push_bottom_out.xml",
+        "source": "/Users/a123/Desktop/MyTimePick-master/wheelPickerDemo/build/intermediates/bundles/debug/res/anim/push_bottom_out.xml"
+    }
+]

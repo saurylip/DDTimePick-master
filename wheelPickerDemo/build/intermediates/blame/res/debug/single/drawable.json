@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_val.xml",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\src\\main\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\build\\intermediates\\res\\merged\\debug\\drawable\\wheel_bg.xml",
+        "source": "E:\\kejiang\\AndroidStudioProjects\\MyTimePick\\wheelPickerDemo\\src\\main\\res\\drawable\\wheel_bg.xml"
+    }
+]
